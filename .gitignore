@@ -1,0 +1,21 @@
+# Java build output
+*.class
+*.jar
+
+# Hadoop local data and logs
+hadoopdata/
+logs/
+*.log
+
+# Large datasets
+*.csv
+*.zip
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
