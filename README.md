@@ -36,7 +36,7 @@ Dự án sử dụng dữ liệu NYC Yellow Taxi Trip Data.
 
 Trang dữ liệu chính thức: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-Dữ liệu csv trong dự án: https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-01.csv
+Dữ liệu csv trong dự án: [https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?select=yellow_tripdata_2016-01.csv](https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data?)
 
 Các tệp dữ liệu được sử dụng trong dự án:
 
